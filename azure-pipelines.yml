@@ -3,7 +3,6 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-[![Build Status](https://dev.azure.com/NationwidePet/SridharTest/_apis/build/status/sgaddam123.MyFirstRepository%20(1)?branchName=master)](https://dev.azure.com/NationwidePet/SridharTest/_build/latest?definitionId=2?branchName=master)
 trigger:
 - master
 
