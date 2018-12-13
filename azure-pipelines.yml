@@ -2,7 +2,7 @@
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
-
+https://dev.azure.com/NationwidePet/SridharTest/_apis/build/status/sgaddam123.MyFirstRepository%20(1)?branchName=master
 trigger:
 - master
 
