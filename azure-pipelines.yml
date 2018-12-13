@@ -10,6 +10,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
+https://dev.azure.com/NationwidePet/SridharTest/_apis/build/status/sgaddam123.MyFirstRepository%20(1)?branchName=master
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
